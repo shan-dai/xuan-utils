@@ -3,13 +3,13 @@
 </h1>
 <p align="center">
     在线演示:
-    <a href="https://muxuange.cn/tool" target="_blank">
+    <a href="https://muxuange.cn/paipan" target="_blank">
     	点击查看
     </a>
 </p>
 <p align="center">
     最新代码:
-    <a href="https://gitee.com/shan-dai/xuan" target="_blank">
+    <a href="https://gitee.com/shan-dai/xuan-utils" target="_blank">
     	点击查看
     </a>
 </p>
