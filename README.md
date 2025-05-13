@@ -163,7 +163,3 @@ public class MeiHuaTest {
 ## 界面参考
 
 ![paipan](https://muxuange-pic.oss-cn-qingdao.aliyuncs.com/pic/929de5cb-761c-4505-97b5-429b359eaed1.png)
-
-<p align="right" style="margin:-11px 0 -11px 0; color:green;">
-    ℹ 此工具已停止更新，最新代码：<a href="https://gitee.com/shan-dai/xuan">点击查看</a>。
-</p>
